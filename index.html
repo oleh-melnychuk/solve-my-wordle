@@ -58,12 +58,69 @@
             background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
             border-radius: 15px;
             padding: 30px 20px;
+            cursor: pointer;
+            position: relative;
+            perspective: 1000px;
+            min-height: 180px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
 
         .word-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .word-card.flipped {
+            pointer-events: none;
+        }
+
+        .card-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+        }
+
+        .word-card.flipped .card-inner {
+            transform: rotateY(180deg);
+        }
+
+        .card-front, .card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .card-front {
+            z-index: 2;
+        }
+
+        .card-back {
+            transform: rotateY(180deg);
+        }
+
+        .card-cover {
+            font-size: 3em;
+            color: #667eea;
+            opacity: 0.7;
+            user-select: none;
+        }
+
+        .card-hint {
+            font-size: 0.8em;
+            color: #999;
+            margin-top: 10px;
+            font-style: italic;
         }
 
         .word-label {
@@ -81,11 +138,27 @@
             color: #333;
             margin-bottom: 10px;
             font-family: 'Courier New', monospace;
+            opacity: 0;
+            transform: scale(0.8);
+            transition: opacity 0.4s ease 0.3s, transform 0.4s ease 0.3s;
+        }
+
+        .word-card.flipped .word-value {
+            opacity: 1;
+            transform: scale(1);
         }
 
         .word-issue {
             color: #999;
             font-size: 0.85em;
+            opacity: 0;
+            transform: translateY(10px);
+            transition: opacity 0.4s ease 0.4s, transform 0.4s ease 0.4s;
+        }
+
+        .word-card.flipped .word-issue {
+            opacity: 1;
+            transform: translateY(0);
         }
 
         .date-container {
@@ -182,16 +255,34 @@
         <p class="subtitle">Daily Wordle Words</p>
         
         <div class="words-container">
-            <div class="word-card">
-                <div class="word-label">5 Letters</div>
-                <div class="word-value" id="word5">вдова</div>
-                <div class="word-issue" id="issue5">Issue #1453</div>
+            <div class="word-card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <div class="word-label">5 Letters</div>
+                        <div class="card-cover">?</div>
+                        <div class="card-hint">Click to reveal</div>
+                    </div>
+                    <div class="card-back">
+                        <div class="word-label">5 Letters</div>
+                        <div class="word-value" id="word5">вдова</div>
+                        <div class="word-issue" id="issue5">Issue #1453</div>
+                    </div>
+                </div>
             </div>
             
-            <div class="word-card">
-                <div class="word-label">6 Letters</div>
-                <div class="word-value" id="word6">толока</div>
-                <div class="word-issue" id="issue6">Issue #489</div>
+            <div class="word-card" onclick="flipCard(this)">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <div class="word-label">6 Letters</div>
+                        <div class="card-cover">?</div>
+                        <div class="card-hint">Click to reveal</div>
+                    </div>
+                    <div class="card-back">
+                        <div class="word-label">6 Letters</div>
+                        <div class="word-value" id="word6">толока</div>
+                        <div class="word-issue" id="issue6">Issue #489</div>
+                    </div>
+                </div>
             </div>
         </div>
         
@@ -213,6 +304,13 @@
     </div>
 
     <script>
+        // Card flip function
+        function flipCard(card) {
+            if (!card.classList.contains('flipped')) {
+                card.classList.add('flipped');
+            }
+        }
+
         // Generate QR code using API service
         const monobankUrl = 'https://send.monobank.ua/jar/AT6icdg5vu';
         
