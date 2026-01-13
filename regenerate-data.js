@@ -30,6 +30,39 @@ readme = readme.replace(
 // Write the updated README
 fs.writeFileSync(readmePath, readme, 'utf8');
 
-console.log('README updated successfully!');
+// Read the HTML template
+const htmlPath = './index.html';
+let html = fs.readFileSync(htmlPath, 'utf8');
+
+// Update the HTML content
+html = html.replace(
+  /<div class="word-value" id="word5">[^<]+<\/div>/,
+  `<div class="word-value" id="word5">${word5.word}</div>`
+);
+
+html = html.replace(
+  /<div class="word-issue" id="issue5">[^<]+<\/div>/,
+  `<div class="word-issue" id="issue5">Issue #${word5.issue}</div>`
+);
+
+html = html.replace(
+  /<div class="word-value" id="word6">[^<]+<\/div>/,
+  `<div class="word-value" id="word6">${word6.word}</div>`
+);
+
+html = html.replace(
+  /<div class="word-issue" id="issue6">[^<]+<\/div>/,
+  `<div class="word-issue" id="issue6">Issue #${word6.issue}</div>`
+);
+
+html = html.replace(
+  /<div class="date-value" id="date">[^<]+<\/div>/,
+  `<div class="date-value" id="date">${today}</div>`
+);
+
+// Write the updated HTML
+fs.writeFileSync(htmlPath, html, 'utf8');
+
+console.log('README and HTML updated successfully!');
 console.log(`5 letters: ${word5.word} (Issue #${word5.issue})`);
 console.log(`6 letters: ${word6.word} (Issue #${word6.issue})`);
