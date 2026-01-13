@@ -109,6 +109,57 @@
             font-weight: 600;
         }
 
+        .qr-container {
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 2px solid #e0e0e0;
+        }
+
+        .qr-label {
+            color: #666;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        .qr-code-wrapper {
+            display: inline-block;
+            padding: 20px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            margin: 20px 0;
+        }
+
+        #qrcode {
+            display: inline-block;
+            width: 250px;
+            height: 250px;
+        }
+
+        #qrcode img {
+            width: 100%;
+            height: 100%;
+            border-radius: 10px;
+            display: block;
+        }
+
+        .qr-link {
+            margin-top: 15px;
+            color: #667eea;
+            font-size: 0.9em;
+            text-decoration: none;
+            display: inline-block;
+            transition: color 0.3s ease;
+        }
+
+        .qr-link:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+
         @media (max-width: 600px) {
             .words-container {
                 grid-template-columns: 1fr;
@@ -148,6 +199,43 @@
             <div class="date-label">Last Updated</div>
             <div class="date-value" id="date">2026-01-13</div>
         </div>
+        
+        <div class="qr-container">
+            <div class="qr-label">Support the project</div>
+            <div class="qr-code-wrapper">
+                <div id="qrcode"></div>
+            </div>
+            <br />
+            <a href="https://send.monobank.ua/jar/AT6icdg5vu" target="_blank" class="qr-link">
+                Top up the bank via Monobank
+            </a>
+        </div>
     </div>
+
+    <script>
+        // Generate QR code using API service
+        const monobankUrl = 'https://send.monobank.ua/jar/AT6icdg5vu';
+        
+        // Use QR Server API to generate QR code
+        document.addEventListener('DOMContentLoaded', function() {
+            const qrElement = document.getElementById('qrcode');
+            if (qrElement) {
+                // Encode URL for API
+                const encodedUrl = encodeURIComponent(monobankUrl);
+                // Use api.qrserver.com - free and reliable
+                const qrImageUrl = `https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=${encodedUrl}`;
+                
+                // Create and insert image
+                const img = document.createElement('img');
+                img.src = qrImageUrl;
+                img.alt = 'QR код для поповнення';
+                img.style.width = '250px';
+                img.style.height = '250px';
+                img.style.borderRadius = '10px';
+                
+                qrElement.appendChild(img);
+            }
+        });
+    </script>
 </body>
 </html>
