@@ -24,7 +24,7 @@ jobs:
           
       - name: Get words.json from private repository
         run: |
-          git clone --depth 1 --single-branch --branch main https://${{ secrets.WORDS_REPO_TOKEN }}@github.com/${{ secrets.WORDS_REPO }}.git words-repo
+          git clone --depth 1 --single-branch --branch master https://${{ secrets.WORDS_REPO_TOKEN }}@github.com/${{ secrets.WORDS_REPO }}.git words-repo
           cp words-repo/words.json ./words.json
           rm -rf words-repo
         
