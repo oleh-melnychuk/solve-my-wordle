@@ -2,8 +2,10 @@ name: Update Word of the Day
 
 on:
   schedule:
-    # Run daily at 00:00 UTC (which is 02:00 Kyiv time in summer, 01:00 in winter)
-    - cron: '0 0 * * *'
+    # Run twice daily to handle DST: 21:00 UTC (00:00 Kyiv in summer) and 22:00 UTC (00:00 Kyiv in winter)
+    # Note: GitHub Actions cron uses UTC and doesn't adjust for DST automatically
+    - cron: '0 21 * * *'
+    - cron: '0 22 * * *'
   workflow_dispatch: # Allows manual triggering
   push:
     branches:
