@@ -5,6 +5,9 @@ on:
     # Run daily at 00:00 UTC (which is 02:00 Kyiv time in summer, 01:00 in winter)
     - cron: '0 0 * * *'
   workflow_dispatch: # Allows manual triggering
+  push:
+    branches:
+      - master
 
 permissions:
   contents: write
@@ -25,15 +28,18 @@ jobs:
           node-version: '18'
           
       - name: Get words.json from private repository
+        if: github.event_name != 'push'
         run: |
           git clone --depth 1 --single-branch --branch master https://${{ secrets.WORDS_REPO_TOKEN }}@github.com/${{ secrets.WORDS_REPO }}.git words-repo
           cp words-repo/words.json ./words.json
           rm -rf words-repo
         
       - name: Regenerate data
+        if: github.event_name != 'push'
         run: node regenerate-data.js
         
       - name: Commit and push changes
+        if: github.event_name != 'push'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
