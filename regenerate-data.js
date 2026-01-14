@@ -54,8 +54,8 @@ html = html.replace(
 );
 
 html = html.replace(
-  /<div class="word-issue" id="issue5">[^<]+<\/div>/,
-  `<div class="word-issue" id="issue5">Issue #${word5.issue}</div>`
+  /<div class="word-issue" id="issue5">[\s\S]*?<\/div>/,
+  `<div class="word-issue" id="issue5"><span data-i18n="issue">Issue</span> #${word5.issue}</div>`
 );
 
 html = html.replace(
@@ -64,8 +64,8 @@ html = html.replace(
 );
 
 html = html.replace(
-  /<div class="word-issue" id="issue6">[^<]+<\/div>/,
-  `<div class="word-issue" id="issue6">Issue #${word6.issue}</div>`
+  /<div class="word-issue" id="issue6">[\s\S]*?<\/div>/,
+  `<div class="word-issue" id="issue6"><span data-i18n="issue">Issue</span> #${word6.issue}</div>`
 );
 
 html = html.replace(
