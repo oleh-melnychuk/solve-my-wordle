@@ -1,10 +1,23 @@
 const fs = require('fs');
 const { getWordOfTheDay } = require('./index.js');
 
+// Get current Kyiv date for display
+const now = new Date();
+const kyivFormatter = new Intl.DateTimeFormat('en-US', {
+  timeZone: 'Europe/Kiev',
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit'
+});
+const kyivParts = kyivFormatter.formatToParts(now);
+const kyivYear = kyivParts.find(p => p.type === 'year').value;
+const kyivMonth = kyivParts.find(p => p.type === 'month').value;
+const kyivDay = kyivParts.find(p => p.type === 'day').value;
+const today = `${kyivYear}-${kyivMonth}-${kyivDay}`;
+
 // Get words of the day
 const word5 = getWordOfTheDay(5);
 const word6 = getWordOfTheDay(6);
-const today = new Date().toISOString().split('T')[0];
 
 // Read the current README
 const readmePath = './README.md';
