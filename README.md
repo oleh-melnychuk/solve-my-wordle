@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** фокус (Issue #1456)
+**Word:** натяг (Issue #1457)
 
 ### 6 Letters
-**Word:** ворота (Issue #492)
+**Word:** дикція (Issue #493)
 
-*Last updated: 2026-01-16*
+*Last updated: 2026-01-17*
