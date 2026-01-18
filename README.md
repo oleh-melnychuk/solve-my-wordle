@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** циган (Issue #1458)
+**Word:** вуаль (Issue #1459)
 
 ### 6 Letters
-**Word:** проєкт (Issue #494)
+**Word:** гонщик (Issue #495)
 
-*Last updated: 2026-01-18*
+*Last updated: 2026-01-19*
