@@ -19,6 +19,9 @@ const today = `${kyivYear}-${kyivMonth}-${kyivDay}`;
 const word5 = getWordOfTheDay(5);
 const word6 = getWordOfTheDay(6);
 
+// Generate cache version based on issue numbers (changes when words change)
+const cacheVersion = `${word5.issue}-${word6.issue}`;
+
 // Read the current README
 const readmePath = './README.md';
 let readme = fs.readFileSync(readmePath, 'utf8');
@@ -71,6 +74,17 @@ html = html.replace(
 html = html.replace(
   /<div class="date-value" id="date">[^<]+<\/div>/,
   `<div class="date-value" id="date">${today}</div>`
+);
+
+// Update cache version in CSS and JS links (only when words change)
+html = html.replace(
+  /href="styles\.css\?v=[^"]*"/,
+  `href="styles.css?v=${cacheVersion}"`
+);
+
+html = html.replace(
+  /src="script\.js\?v=[^"]*"/,
+  `src="script.js?v=${cacheVersion}"`
 );
 
 // Write the updated HTML
