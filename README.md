@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** євнух (Issue #1461)
+**Word:** папка (Issue #1462)
 
 ### 6 Letters
-**Word:** торшер (Issue #497)
+**Word:** шпинат (Issue #498)
 
-*Last updated: 2026-01-21*
+*Last updated: 2026-01-22*
