@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** мойва (Issue #1463)
+**Word:** шкала (Issue #1464)
 
 ### 6 Letters
-**Word:** садист (Issue #499)
+**Word:** гальмо (Issue #500)
 
-*Last updated: 2026-01-23*
+*Last updated: 2026-01-24*
