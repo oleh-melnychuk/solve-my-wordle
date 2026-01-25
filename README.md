@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** окіст (Issue #1465)
+**Word:** кокон (Issue #1466)
 
 ### 6 Letters
-**Word:** газета (Issue #501)
+**Word:** регата (Issue #502)
 
-*Last updated: 2026-01-25*
+*Last updated: 2026-01-26*
