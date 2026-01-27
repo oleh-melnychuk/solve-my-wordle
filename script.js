@@ -8,9 +8,6 @@ const embeddedTranslations = {
         clickToReveal: 'Click to reveal',
         issue: 'Issue',
         lastUpdated: 'Last Updated',
-        supportProject: 'Support the project',
-        topUpMonobank: 'Top up the bank via Monobank',
-        qrAlt: 'QR code for top-up'
     },
     uk: {
         title: 'Слово дня',
@@ -20,9 +17,6 @@ const embeddedTranslations = {
         clickToReveal: 'Натисніть, щоб відкрити',
         issue: 'Випуск',
         lastUpdated: 'Останнє оновлення',
-        supportProject: 'Підтримати проект',
-        topUpMonobank: 'Поповнити банку через Monobank',
-        qrAlt: 'QR-код для поповнення'
     }
 };
 
@@ -82,11 +76,6 @@ function switchLanguage(lang) {
         langSelect.value = lang;
     }
     
-    // Update QR code alt text
-    const qrImg = document.querySelector('#qrcode img');
-    if (qrImg) {
-        qrImg.alt = translations[lang].qrAlt;
-    }
 }
 
 // Card flip function
@@ -95,9 +84,6 @@ function flipCard(card) {
         card.classList.add('flipped');
     }
 }
-
-// Generate QR code using API service
-const monobankUrl = 'https://send.monobank.ua/jar/AT6icdg5vu';
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', async function() {
@@ -112,23 +98,4 @@ document.addEventListener('DOMContentLoaded', async function() {
     
     // Set initial language
     switchLanguage(currentLang);
-    
-    // Generate QR code
-    const qrElement = document.getElementById('qrcode');
-    if (qrElement) {
-        // Encode URL for API
-        const encodedUrl = encodeURIComponent(monobankUrl);
-        // Use api.qrserver.com - free and reliable
-        const qrImageUrl = `https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=${encodedUrl}`;
-        
-        // Create and insert image
-        const img = document.createElement('img');
-        img.src = qrImageUrl;
-        img.alt = translations[currentLang]?.qrAlt || 'QR code for top-up';
-        img.style.width = '250px';
-        img.style.height = '250px';
-        img.style.borderRadius = '10px';
-        
-        qrElement.appendChild(img);
-    }
 });
