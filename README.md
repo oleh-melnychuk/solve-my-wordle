@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** магма (Issue #1468)
+**Word:** оленя (Issue #1469)
 
 ### 6 Letters
-**Word:** галузь (Issue #504)
+**Word:** гранат (Issue #505)
 
-*Last updated: 2026-01-28*
+*Last updated: 2026-01-29*
