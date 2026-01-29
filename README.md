@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** оленя (Issue #1469)
+**Word:** акциз (Issue #1470)
 
 ### 6 Letters
-**Word:** гранат (Issue #505)
+**Word:** паливо (Issue #506)
 
-*Last updated: 2026-01-29*
+*Last updated: 2026-01-30*
