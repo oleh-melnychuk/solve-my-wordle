@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** благо (Issue #1471)
+**Word:** касир (Issue #1472)
 
 ### 6 Letters
-**Word:** колдун (Issue #507)
+**Word:** мотлох (Issue #508)
 
-*Last updated: 2026-01-31*
+*Last updated: 2026-02-01*
