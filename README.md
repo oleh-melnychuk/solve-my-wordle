@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** касир (Issue #1472)
+**Word:** сосна (Issue #1473)
 
 ### 6 Letters
-**Word:** мотлох (Issue #508)
+**Word:** анклав (Issue #509)
 
-*Last updated: 2026-02-01*
+*Last updated: 2026-02-02*
