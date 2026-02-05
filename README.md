@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** отара (Issue #1476)
+**Word:** шабля (Issue #1477)
 
 ### 6 Letters
-**Word:** слухач (Issue #512)
+**Word:** бензин (Issue #513)
 
-*Last updated: 2026-02-05*
+*Last updated: 2026-02-06*
