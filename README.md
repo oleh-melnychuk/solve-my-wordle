@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** гілля (Issue #1479)
+**Word:** літак (Issue #1480)
 
 ### 6 Letters
-**Word:** комаха (Issue #515)
+**Word:** косуля (Issue #516)
 
-*Last updated: 2026-02-08*
+*Last updated: 2026-02-09*
