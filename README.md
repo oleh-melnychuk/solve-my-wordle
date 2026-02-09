@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** літак (Issue #1480)
+**Word:** лимон (Issue #1481)
 
 ### 6 Letters
-**Word:** косуля (Issue #516)
+**Word:** полиця (Issue #517)
 
-*Last updated: 2026-02-09*
+*Last updated: 2026-02-10*
