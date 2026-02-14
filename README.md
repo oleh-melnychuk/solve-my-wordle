@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** висип (Issue #1485)
+**Word:** корок (Issue #1486)
 
 ### 6 Letters
-**Word:** вівтар (Issue #521)
+**Word:** кістка (Issue #522)
 
-*Last updated: 2026-02-14*
+*Last updated: 2026-02-15*
