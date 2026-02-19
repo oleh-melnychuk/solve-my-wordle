@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** скоба (Issue #1490)
+**Word:** зошит (Issue #1491)
 
 ### 6 Letters
-**Word:** гігант (Issue #526)
+**Word:** подвиг (Issue #527)
 
-*Last updated: 2026-02-19*
+*Last updated: 2026-02-20*
