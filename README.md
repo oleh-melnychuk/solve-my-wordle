@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** зошит (Issue #1491)
+**Word:** гвинт (Issue #1492)
 
 ### 6 Letters
-**Word:** подвиг (Issue #527)
+**Word:** тріада (Issue #528)
 
-*Last updated: 2026-02-20*
+*Last updated: 2026-02-21*
