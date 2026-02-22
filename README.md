@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** лапки (Issue #1493)
+**Word:** банда (Issue #1494)
 
 ### 6 Letters
-**Word:** карцер (Issue #529)
+**Word:** форсаж (Issue #530)
 
-*Last updated: 2026-02-22*
+*Last updated: 2026-02-23*
