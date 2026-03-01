@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** плата (Issue #1500)
+**Word:** стела (Issue #1501)
 
 ### 6 Letters
-**Word:** рулька (Issue #536)
+**Word:** шампур (Issue #537)
 
-*Last updated: 2026-03-01*
+*Last updated: 2026-03-02*
