@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** титул (Issue #1502)
+**Word:** смерч (Issue #1503)
 
 ### 6 Letters
-**Word:** милиця (Issue #538)
+**Word:** швачка (Issue #539)
 
-*Last updated: 2026-03-03*
+*Last updated: 2026-03-04*
