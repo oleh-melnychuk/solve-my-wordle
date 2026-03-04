@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** смерч (Issue #1503)
+**Word:** журба (Issue #1504)
 
 ### 6 Letters
-**Word:** швачка (Issue #539)
+**Word:** наркоз (Issue #540)
 
-*Last updated: 2026-03-04*
+*Last updated: 2026-03-05*
