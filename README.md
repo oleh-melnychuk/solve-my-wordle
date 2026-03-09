@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** сім'я (Issue #1508)
+**Word:** втіха (Issue #1509)
 
 ### 6 Letters
-**Word:** паркан (Issue #544)
+**Word:** контур (Issue #545)
 
-*Last updated: 2026-03-09*
+*Last updated: 2026-03-10*
