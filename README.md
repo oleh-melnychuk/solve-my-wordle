@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** дієта (Issue #1514)
+**Word:** дебют (Issue #1515)
 
 ### 6 Letters
-**Word:** відтік (Issue #550)
+**Word:** фектор (Issue #551)
 
-*Last updated: 2026-03-15*
+*Last updated: 2026-03-16*
