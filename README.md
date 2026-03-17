@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** хміль (Issue #1516)
+**Word:** буква (Issue #1517)
 
 ### 6 Letters
-**Word:** реп'ях (Issue #552)
+**Word:** патина (Issue #553)
 
-*Last updated: 2026-03-17*
+*Last updated: 2026-03-18*
