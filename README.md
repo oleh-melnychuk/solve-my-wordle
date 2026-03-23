@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** дзиґа (Issue #1522)
+**Word:** опіум (Issue #1523)
 
 ### 6 Letters
-**Word:** лірика (Issue #558)
+**Word:** пенсія (Issue #559)
 
-*Last updated: 2026-03-23*
+*Last updated: 2026-03-24*
