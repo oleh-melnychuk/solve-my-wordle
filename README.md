@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** опіум (Issue #1523)
+**Word:** засіб (Issue #1524)
 
 ### 6 Letters
-**Word:** пенсія (Issue #559)
+**Word:** кальян (Issue #560)
 
-*Last updated: 2026-03-24*
+*Last updated: 2026-03-25*
