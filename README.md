@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** пласт (Issue #1528)
+**Word:** слово (Issue #1529)
 
 ### 6 Letters
-**Word:** штанга (Issue #564)
+**Word:** феєрія (Issue #565)
 
-*Last updated: 2026-03-29*
+*Last updated: 2026-03-30*
