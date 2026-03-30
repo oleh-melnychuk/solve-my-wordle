@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** слово (Issue #1529)
+**Word:** ширма (Issue #1530)
 
 ### 6 Letters
-**Word:** феєрія (Issue #565)
+**Word:** завада (Issue #566)
 
-*Last updated: 2026-03-30*
+*Last updated: 2026-03-31*
