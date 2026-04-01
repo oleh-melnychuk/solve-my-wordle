@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** ротор (Issue #1531)
+**Word:** моряк (Issue #1532)
 
 ### 6 Letters
-**Word:** тріумф (Issue #567)
+**Word:** муштра (Issue #568)
 
-*Last updated: 2026-04-01*
+*Last updated: 2026-04-02*
