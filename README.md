@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** блиск (Issue #1533)
+**Word:** район (Issue #1534)
 
 ### 6 Letters
-**Word:** лекція (Issue #569)
+**Word:** макіяж (Issue #570)
 
-*Last updated: 2026-04-03*
+*Last updated: 2026-04-04*
