@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** район (Issue #1534)
+**Word:** дзвін (Issue #1535)
 
 ### 6 Letters
-**Word:** макіяж (Issue #570)
+**Word:** заміна (Issue #571)
 
-*Last updated: 2026-04-04*
+*Last updated: 2026-04-05*
