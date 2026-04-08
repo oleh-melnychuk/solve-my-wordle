@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** ферма (Issue #1538)
+**Word:** кегля (Issue #1539)
 
 ### 6 Letters
-**Word:** аналіз (Issue #574)
+**Word:** кролик (Issue #575)
 
-*Last updated: 2026-04-08*
+*Last updated: 2026-04-09*
