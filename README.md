@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** запит (Issue #1541)
+**Word:** опція (Issue #1542)
 
 ### 6 Letters
-**Word:** ковзан (Issue #577)
+**Word:** лижник (Issue #578)
 
-*Last updated: 2026-04-11*
+*Last updated: 2026-04-12*
