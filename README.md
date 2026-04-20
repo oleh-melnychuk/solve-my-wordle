@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** косяк (Issue #1550)
+**Word:** колаж (Issue #1551)
 
 ### 6 Letters
-**Word:** бограч (Issue #586)
+**Word:** дитина (Issue #587)
 
-*Last updated: 2026-04-20*
+*Last updated: 2026-04-21*
