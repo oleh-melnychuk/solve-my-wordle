@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** вплив (Issue #1552)
+**Word:** хомут (Issue #1553)
 
 ### 6 Letters
-**Word:** страта (Issue #588)
+**Word:** депеша (Issue #589)
 
-*Last updated: 2026-04-22*
+*Last updated: 2026-04-23*
