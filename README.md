@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** хомут (Issue #1553)
+**Word:** автор (Issue #1554)
 
 ### 6 Letters
-**Word:** депеша (Issue #589)
+**Word:** тунель (Issue #590)
 
-*Last updated: 2026-04-23*
+*Last updated: 2026-04-24*
