@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** щогла (Issue #1557)
+**Word:** допит (Issue #1558)
 
 ### 6 Letters
-**Word:** зливок (Issue #593)
+**Word:** пільга (Issue #594)
 
-*Last updated: 2026-04-27*
+*Last updated: 2026-04-28*
