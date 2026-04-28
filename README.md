@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** допит (Issue #1558)
+**Word:** цукор (Issue #1559)
 
 ### 6 Letters
-**Word:** пільга (Issue #594)
+**Word:** комора (Issue #595)
 
-*Last updated: 2026-04-28*
+*Last updated: 2026-04-29*
