@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** змога (Issue #1561)
+**Word:** кадик (Issue #1562)
 
 ### 6 Letters
-**Word:** сирник (Issue #597)
+**Word:** розріз (Issue #598)
 
-*Last updated: 2026-05-01*
+*Last updated: 2026-05-02*
