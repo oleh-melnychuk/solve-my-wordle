@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** посол (Issue #1565)
+**Word:** малюк (Issue #1566)
 
 ### 6 Letters
-**Word:** готика (Issue #601)
+**Word:** листва (Issue #602)
 
-*Last updated: 2026-05-05*
+*Last updated: 2026-05-06*
