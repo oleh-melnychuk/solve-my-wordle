@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** купол (Issue #1567)
+**Word:** течія (Issue #1568)
 
 ### 6 Letters
-**Word:** гектар (Issue #603)
+**Word:** ментол (Issue #604)
 
-*Last updated: 2026-05-07*
+*Last updated: 2026-05-08*
