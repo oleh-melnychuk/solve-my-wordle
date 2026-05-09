@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** катод (Issue #1569)
+**Word:** банан (Issue #1570)
 
 ### 6 Letters
-**Word:** хазяїн (Issue #605)
+**Word:** швабра (Issue #606)
 
-*Last updated: 2026-05-09*
+*Last updated: 2026-05-10*
