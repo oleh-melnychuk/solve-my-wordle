@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** вираз (Issue #1571)
+**Word:** любов (Issue #1572)
 
 ### 6 Letters
-**Word:** скелет (Issue #607)
+**Word:** шелест (Issue #608)
 
-*Last updated: 2026-05-11*
+*Last updated: 2026-05-12*
