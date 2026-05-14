@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** пісня (Issue #1574)
+**Word:** масон (Issue #1575)
 
 ### 6 Letters
-**Word:** регіон (Issue #610)
+**Word:** тріска (Issue #611)
 
-*Last updated: 2026-05-14*
+*Last updated: 2026-05-15*
