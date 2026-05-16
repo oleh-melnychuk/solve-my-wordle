@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** цинік (Issue #1576)
+**Word:** штора (Issue #1577)
 
 ### 6 Letters
-**Word:** латунь (Issue #612)
+**Word:** бублик (Issue #613)
 
-*Last updated: 2026-05-16*
+*Last updated: 2026-05-17*
