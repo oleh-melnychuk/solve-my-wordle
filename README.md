@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** бійка (Issue #1579)
+**Word:** низка (Issue #1580)
 
 ### 6 Letters
-**Word:** окуляр (Issue #615)
+**Word:** худоба (Issue #616)
 
-*Last updated: 2026-05-19*
+*Last updated: 2026-05-20*
