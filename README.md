@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** точка (Issue #1583)
+**Word:** чохол (Issue #1584)
 
 ### 6 Letters
-**Word:** знання (Issue #619)
+**Word:** ковчег (Issue #620)
 
-*Last updated: 2026-05-23*
+*Last updated: 2026-05-24*
