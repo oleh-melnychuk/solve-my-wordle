@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** дичка (Issue #1585)
+**Word:** лінія (Issue #1586)
 
 ### 6 Letters
-**Word:** привид (Issue #621)
+**Word:** знахар (Issue #622)
 
-*Last updated: 2026-05-25*
+*Last updated: 2026-05-26*
