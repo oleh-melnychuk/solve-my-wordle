@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** пилка (Issue #1589)
+**Word:** капці (Issue #1590)
 
 ### 6 Letters
-**Word:** втулка (Issue #625)
+**Word:** стихія (Issue #626)
 
-*Last updated: 2026-05-29*
+*Last updated: 2026-05-30*
