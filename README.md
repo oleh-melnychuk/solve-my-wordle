@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** поліс (Issue #1594)
+**Word:** допис (Issue #1595)
 
 ### 6 Letters
-**Word:** ацетон (Issue #630)
+**Word:** досвід (Issue #631)
 
-*Last updated: 2026-06-03*
+*Last updated: 2026-06-04*
