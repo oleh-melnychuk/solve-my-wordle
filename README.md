@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** бузок (Issue #1598)
+**Word:** двері (Issue #1599)
 
 ### 6 Letters
-**Word:** коліно (Issue #634)
+**Word:** біблія (Issue #635)
 
-*Last updated: 2026-06-07*
+*Last updated: 2026-06-08*
