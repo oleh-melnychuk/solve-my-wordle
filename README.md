@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** титан (Issue #1603)
+**Word:** жираф (Issue #1604)
 
 ### 6 Letters
-**Word:** тремор (Issue #639)
+**Word:** зараза (Issue #640)
 
-*Last updated: 2026-06-12*
+*Last updated: 2026-06-13*
