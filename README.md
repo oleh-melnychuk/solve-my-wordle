@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** жираф (Issue #1604)
+**Word:** життя (Issue #1605)
 
 ### 6 Letters
-**Word:** зараза (Issue #640)
+**Word:** сигара (Issue #641)
 
-*Last updated: 2026-06-13*
+*Last updated: 2026-06-14*
