@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** штамп (Issue #1610)
+**Word:** курча (Issue #1611)
 
 ### 6 Letters
-**Word:** доцент (Issue #646)
+**Word:** вогник (Issue #647)
 
-*Last updated: 2026-06-19*
+*Last updated: 2026-06-20*
