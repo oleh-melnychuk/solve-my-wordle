@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** злива (Issue #1614)
+**Word:** рамен (Issue #1615)
 
 ### 6 Letters
-**Word:** азбест (Issue #650)
+**Word:** середа (Issue #651)
 
-*Last updated: 2026-06-23*
+*Last updated: 2026-06-24*
