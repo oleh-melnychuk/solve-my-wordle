@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** метал (Issue #1616)
+**Word:** светр (Issue #1617)
 
 ### 6 Letters
-**Word:** статут (Issue #652)
+**Word:** перука (Issue #653)
 
-*Last updated: 2026-06-25*
+*Last updated: 2026-06-26*
