@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** рулон (Issue #1619)
+**Word:** салют (Issue #1620)
 
 ### 6 Letters
-**Word:** гламур (Issue #655)
+**Word:** печера (Issue #656)
 
-*Last updated: 2026-06-28*
+*Last updated: 2026-06-29*
