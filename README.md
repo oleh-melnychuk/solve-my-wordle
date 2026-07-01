@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** корма (Issue #1622)
+**Word:** поріг (Issue #1623)
 
 ### 6 Letters
-**Word:** диякон (Issue #658)
+**Word:** лохина (Issue #659)
 
-*Last updated: 2026-07-01*
+*Last updated: 2026-07-02*
