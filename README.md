@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** сукня (Issue #1624)
+**Word:** аркан (Issue #1625)
 
 ### 6 Letters
-**Word:** весляр (Issue #660)
+**Word:** баштан (Issue #661)
 
-*Last updated: 2026-07-03*
+*Last updated: 2026-07-04*
