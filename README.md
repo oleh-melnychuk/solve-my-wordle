@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** віяло (Issue #1631)
+**Word:** індик (Issue #1632)
 
 ### 6 Letters
-**Word:** щелепа (Issue #667)
+**Word:** лісник (Issue #668)
 
-*Last updated: 2026-07-10*
+*Last updated: 2026-07-11*
