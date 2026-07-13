@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** радар (Issue #1634)
+**Word:** вибір (Issue #1635)
 
 ### 6 Letters
-**Word:** тандем (Issue #670)
+**Word:** бікіні (Issue #671)
 
-*Last updated: 2026-07-13*
+*Last updated: 2026-07-14*
