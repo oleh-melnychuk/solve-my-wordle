@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** верес (Issue #1638)
+**Word:** гудок (Issue #1639)
 
 ### 6 Letters
-**Word:** амулет (Issue #674)
+**Word:** монета (Issue #675)
 
-*Last updated: 2026-07-17*
+*Last updated: 2026-07-18*
