@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** спирт (Issue #1642)
+**Word:** чуття (Issue #1643)
 
 ### 6 Letters
-**Word:** раціон (Issue #678)
+**Word:** різдво (Issue #679)
 
-*Last updated: 2026-07-21*
+*Last updated: 2026-07-22*
