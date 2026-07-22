@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** чуття (Issue #1643)
+**Word:** молот (Issue #1644)
 
 ### 6 Letters
-**Word:** різдво (Issue #679)
+**Word:** мандри (Issue #680)
 
-*Last updated: 2026-07-22*
+*Last updated: 2026-07-23*
