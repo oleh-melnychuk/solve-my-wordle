@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** пайок (Issue #1645)
+**Word:** табір (Issue #1646)
 
 ### 6 Letters
-**Word:** сивина (Issue #681)
+**Word:** подяка (Issue #682)
 
-*Last updated: 2026-07-24*
+*Last updated: 2026-07-25*
