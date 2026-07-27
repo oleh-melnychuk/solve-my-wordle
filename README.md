@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** колір (Issue #1648)
+**Word:** сенат (Issue #1649)
 
 ### 6 Letters
-**Word:** педаль (Issue #684)
+**Word:** картуз (Issue #685)
 
-*Last updated: 2026-07-27*
+*Last updated: 2026-07-28*
