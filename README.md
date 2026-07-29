@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** свист (Issue #1650)
+**Word:** сходи (Issue #1651)
 
 ### 6 Letters
-**Word:** маклер (Issue #686)
+**Word:** байбак (Issue #687)
 
-*Last updated: 2026-07-29*
+*Last updated: 2026-07-30*
