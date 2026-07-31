@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** казна (Issue #1652)
+**Word:** відео (Issue #1653)
 
 ### 6 Letters
-**Word:** слалом (Issue #688)
+**Word:** огірок (Issue #689)
 
-*Last updated: 2026-07-31*
+*Last updated: 2026-08-01*
