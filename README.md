@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** відео (Issue #1653)
+**Word:** кубок (Issue #1654)
 
 ### 6 Letters
-**Word:** огірок (Issue #689)
+**Word:** прерія (Issue #690)
 
-*Last updated: 2026-08-01*
+*Last updated: 2026-08-02*
