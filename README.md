@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** крило (Issue #1660)
+**Word:** бугай (Issue #1661)
 
 ### 6 Letters
-**Word:** резюме (Issue #696)
+**Word:** митець (Issue #697)
 
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-09*
