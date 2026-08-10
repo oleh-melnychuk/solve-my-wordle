@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** акорд (Issue #1662)
+**Word:** радіо (Issue #1663)
 
 ### 6 Letters
-**Word:** збитки (Issue #698)
+**Word:** кактус (Issue #699)
 
-*Last updated: 2026-08-10*
+*Last updated: 2026-08-11*
