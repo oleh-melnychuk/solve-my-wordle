@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** обман (Issue #1665)
+**Word:** галас (Issue #1666)
 
 ### 6 Letters
-**Word:** зразок (Issue #701)
+**Word:** гарант (Issue #702)
 
-*Last updated: 2026-08-13*
+*Last updated: 2026-08-14*
