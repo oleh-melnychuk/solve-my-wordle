@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** пияка (Issue #1668)
+**Word:** вирій (Issue #1669)
 
 ### 6 Letters
-**Word:** ананас (Issue #704)
+**Word:** сплеск (Issue #705)
 
-*Last updated: 2026-08-16*
+*Last updated: 2026-08-17*
