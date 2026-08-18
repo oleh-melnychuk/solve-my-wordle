@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** зебра (Issue #1670)
+**Word:** намір (Issue #1671)
 
 ### 6 Letters
-**Word:** срібло (Issue #706)
+**Word:** пальне (Issue #707)
 
-*Last updated: 2026-08-18*
+*Last updated: 2026-08-19*
