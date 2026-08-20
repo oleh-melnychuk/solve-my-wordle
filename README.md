@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** офшор (Issue #1672)
+**Word:** скунс (Issue #1673)
 
 ### 6 Letters
-**Word:** гарпун (Issue #708)
+**Word:** ситець (Issue #709)
 
-*Last updated: 2026-08-20*
+*Last updated: 2026-08-21*
