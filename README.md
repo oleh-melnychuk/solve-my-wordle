@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** оклад (Issue #1674)
+**Word:** манеж (Issue #1675)
 
 ### 6 Letters
-**Word:** сестра (Issue #710)
+**Word:** діабет (Issue #711)
 
-*Last updated: 2026-08-22*
+*Last updated: 2026-08-23*
