@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** синяк (Issue #1680)
+**Word:** гусак (Issue #1681)
 
 ### 6 Letters
-**Word:** ілюзія (Issue #716)
+**Word:** вимога (Issue #717)
 
-*Last updated: 2026-08-28*
+*Last updated: 2026-08-29*
