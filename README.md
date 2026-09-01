@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** буряк (Issue #1683)
+**Word:** позов (Issue #1684)
 
 ### 6 Letters
-**Word:** гравій (Issue #719)
+**Word:** екстаз (Issue #720)
 
-*Last updated: 2026-08-31*
+*Last updated: 2026-09-01*
