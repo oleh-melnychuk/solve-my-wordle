@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** позов (Issue #1684)
+**Word:** синок (Issue #1685)
 
 ### 6 Letters
-**Word:** екстаз (Issue #720)
+**Word:** ательє (Issue #721)
 
-*Last updated: 2026-09-01*
+*Last updated: 2026-09-02*
