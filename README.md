@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** ласка (Issue #1686)
+**Word:** хакер (Issue #1687)
 
 ### 6 Letters
-**Word:** спроба (Issue #722)
+**Word:** фасоля (Issue #723)
 
-*Last updated: 2026-09-03*
+*Last updated: 2026-09-04*
