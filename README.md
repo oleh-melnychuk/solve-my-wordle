@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** хокей (Issue #1690)
+**Word:** шрифт (Issue #1691)
 
 ### 6 Letters
-**Word:** паркур (Issue #726)
+**Word:** бароко (Issue #727)
 
-*Last updated: 2026-09-07*
+*Last updated: 2026-09-08*
