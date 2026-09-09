@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** шайба (Issue #1692)
+**Word:** щітка (Issue #1693)
 
 ### 6 Letters
-**Word:** кустар (Issue #728)
+**Word:** жасмин (Issue #729)
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-09-10*
