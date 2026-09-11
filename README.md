@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** матір (Issue #1694)
+**Word:** броня (Issue #1695)
 
 ### 6 Letters
-**Word:** розрив (Issue #730)
+**Word:** сполох (Issue #731)
 
-*Last updated: 2026-09-11*
+*Last updated: 2026-09-12*
