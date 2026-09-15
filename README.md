@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** гетто (Issue #1698)
+**Word:** зміна (Issue #1699)
 
 ### 6 Letters
-**Word:** галька (Issue #734)
+**Word:** коваль (Issue #735)
 
-*Last updated: 2026-09-15*
+*Last updated: 2026-09-16*
