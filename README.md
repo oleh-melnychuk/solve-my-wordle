@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** пекло (Issue #1700)
+**Word:** страх (Issue #1701)
 
 ### 6 Letters
-**Word:** кордон (Issue #736)
+**Word:** бабуся (Issue #737)
 
-*Last updated: 2026-09-17*
+*Last updated: 2026-09-18*
