@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** страх (Issue #1701)
+**Word:** пудра (Issue #1702)
 
 ### 6 Letters
-**Word:** бабуся (Issue #737)
+**Word:** вмикач (Issue #738)
 
-*Last updated: 2026-09-18*
+*Last updated: 2026-09-19*
