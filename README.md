@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** мідія (Issue #1703)
+**Word:** карат (Issue #1704)
 
 ### 6 Letters
-**Word:** бивень (Issue #739)
+**Word:** гример (Issue #740)
 
-*Last updated: 2026-09-20*
+*Last updated: 2026-09-21*
