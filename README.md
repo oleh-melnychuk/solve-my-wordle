@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** карат (Issue #1704)
+**Word:** чашка (Issue #1705)
 
 ### 6 Letters
-**Word:** гример (Issue #740)
+**Word:** бацила (Issue #741)
 
-*Last updated: 2026-09-21*
+*Last updated: 2026-09-22*
