@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** паска (Issue #1708)
+**Word:** хумус (Issue #1709)
 
 ### 6 Letters
-**Word:** палата (Issue #744)
+**Word:** пальма (Issue #745)
 
-*Last updated: 2026-09-25*
+*Last updated: 2026-09-26*
