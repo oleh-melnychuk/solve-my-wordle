@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** тягар (Issue #1713)
+**Word:** єврей (Issue #1714)
 
 ### 6 Letters
-**Word:** валюта (Issue #749)
+**Word:** клішня (Issue #750)
 
-*Last updated: 2026-09-30*
+*Last updated: 2026-10-01*
