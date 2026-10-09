@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** сухар (Issue #1721)
+**Word:** буття (Issue #1722)
 
 ### 6 Letters
-**Word:** джміль (Issue #757)
+**Word:** каліка (Issue #758)
 
-*Last updated: 2026-10-08*
+*Last updated: 2026-10-09*
