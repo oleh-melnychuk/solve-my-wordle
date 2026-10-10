@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** лоток (Issue #1723)
+**Word:** повія (Issue #1724)
 
 ### 6 Letters
-**Word:** роз'єм (Issue #759)
+**Word:** мораль (Issue #760)
 
-*Last updated: 2026-10-10*
+*Last updated: 2026-10-11*
