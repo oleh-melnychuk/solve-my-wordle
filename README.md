@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** буття (Issue #1722)
+**Word:** лоток (Issue #1723)
 
 ### 6 Letters
-**Word:** каліка (Issue #758)
+**Word:** роз'єм (Issue #759)
 
-*Last updated: 2026-10-09*
+*Last updated: 2026-10-10*
