@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** набій (Issue #1726)
+**Word:** шпиль (Issue #1727)
 
 ### 6 Letters
-**Word:** вольєр (Issue #762)
+**Word:** кашель (Issue #763)
 
-*Last updated: 2026-10-13*
+*Last updated: 2026-10-14*
