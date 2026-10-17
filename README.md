@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** дотик (Issue #1730)
+**Word:** тягач (Issue #1731)
 
 ### 6 Letters
-**Word:** граблі (Issue #766)
+**Word:** садиба (Issue #767)
 
-*Last updated: 2026-10-17*
+*Last updated: 2026-10-18*
