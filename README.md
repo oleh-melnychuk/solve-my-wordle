@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** натяк (Issue #1733)
+**Word:** ріжок (Issue #1734)
 
 ### 6 Letters
-**Word:** фашизм (Issue #769)
+**Word:** балкон (Issue #770)
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-21*
