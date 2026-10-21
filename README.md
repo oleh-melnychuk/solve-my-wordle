@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** ріжок (Issue #1734)
+**Word:** сукно (Issue #1735)
 
 ### 6 Letters
-**Word:** балкон (Issue #770)
+**Word:** паніка (Issue #771)
 
-*Last updated: 2026-10-21*
+*Last updated: 2026-10-22*
