@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** стать (Issue #1737)
+**Word:** самка (Issue #1738)
 
 ### 6 Letters
-**Word:** висота (Issue #773)
+**Word:** цинізм (Issue #774)
 
-*Last updated: 2026-10-24*
+*Last updated: 2026-10-25*
