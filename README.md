@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** подив (Issue #1739)
+**Word:** напій (Issue #1740)
 
 ### 6 Letters
-**Word:** цитрус (Issue #775)
+**Word:** палтус (Issue #776)
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*
