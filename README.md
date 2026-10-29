@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** горох (Issue #1741)
+**Word:** транс (Issue #1742)
 
 ### 6 Letters
-**Word:** дивина (Issue #777)
+**Word:** анонім (Issue #778)
 
-*Last updated: 2026-10-28*
+*Last updated: 2026-10-29*
