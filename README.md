@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** попит (Issue #1744)
+**Word:** оргія (Issue #1745)
 
 ### 6 Letters
-**Word:** вітчим (Issue #780)
+**Word:** флакон (Issue #781)
 
-*Last updated: 2026-10-31*
+*Last updated: 2026-11-01*
