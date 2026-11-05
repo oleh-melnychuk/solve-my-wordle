@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** тютюн (Issue #1748)
+**Word:** круїз (Issue #1749)
 
 ### 6 Letters
-**Word:** феодал (Issue #784)
+**Word:** церква (Issue #785)
 
-*Last updated: 2026-11-04*
+*Last updated: 2026-11-05*
