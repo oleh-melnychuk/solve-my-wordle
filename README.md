@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** хімія (Issue #1750)
+**Word:** ложка (Issue #1751)
 
 ### 6 Letters
-**Word:** прарід (Issue #786)
+**Word:** вантаж (Issue #787)
 
-*Last updated: 2026-11-06*
+*Last updated: 2026-11-07*
