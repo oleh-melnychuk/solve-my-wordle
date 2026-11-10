@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** бомба (Issue #1753)
+**Word:** масло (Issue #1754)
 
 ### 6 Letters
-**Word:** захват (Issue #789)
+**Word:** регрес (Issue #790)
 
-*Last updated: 2026-11-09*
+*Last updated: 2026-11-10*
