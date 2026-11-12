@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** авеню (Issue #1755)
+**Word:** заїзд (Issue #1756)
 
 ### 6 Letters
-**Word:** корова (Issue #791)
+**Word:** стегно (Issue #792)
 
-*Last updated: 2026-11-11*
+*Last updated: 2026-11-12*
