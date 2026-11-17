@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** парад (Issue #1760)
+**Word:** талія (Issue #1761)
 
 ### 6 Letters
-**Word:** свекор (Issue #796)
+**Word:** митник (Issue #797)
 
-*Last updated: 2026-11-16*
+*Last updated: 2026-11-17*
