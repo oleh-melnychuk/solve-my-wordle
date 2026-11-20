@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** калач (Issue #1763)
+**Word:** замша (Issue #1764)
 
 ### 6 Letters
-**Word:** натиск (Issue #799)
+**Word:** сальдо (Issue #800)
 
-*Last updated: 2026-11-19*
+*Last updated: 2026-11-20*
