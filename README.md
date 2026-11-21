@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** замша (Issue #1764)
+**Word:** думка (Issue #1765)
 
 ### 6 Letters
-**Word:** сальдо (Issue #800)
+**Word:** баланс (Issue #801)
 
-*Last updated: 2026-11-20*
+*Last updated: 2026-11-21*
