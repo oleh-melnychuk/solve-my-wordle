@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** омела (Issue #1766)
+**Word:** пісок (Issue #1767)
 
 ### 6 Letters
-**Word:** сирота (Issue #802)
+**Word:** різьба (Issue #803)
 
-*Last updated: 2026-11-22*
+*Last updated: 2026-11-23*
