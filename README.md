@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** пісок (Issue #1767)
+**Word:** ниття (Issue #1768)
 
 ### 6 Letters
-**Word:** різьба (Issue #803)
+**Word:** декада (Issue #804)
 
-*Last updated: 2026-11-23*
+*Last updated: 2026-11-24*
