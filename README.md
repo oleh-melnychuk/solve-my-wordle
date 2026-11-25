@@ -5,9 +5,9 @@ Word of the day generator for 5-letter and 6-letter words.
 ## Word of the Day
 
 ### 5 Letters
-**Word:** ниття (Issue #1768)
+**Word:** батут (Issue #1769)
 
 ### 6 Letters
-**Word:** декада (Issue #804)
+**Word:** вокзал (Issue #805)
 
-*Last updated: 2026-11-24*
+*Last updated: 2026-11-25*
